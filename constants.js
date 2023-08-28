@@ -5,13 +5,13 @@ const LOGIN = {
 
 const HOME = {
   latestBill: "$15.400",
-  savedMoney: "$250.000",
-  freeMoney: "$25.000",
+  savedMoney: "$255.670",
+  freeMoney: "$22.050",
   table: [
-    { name: "Spotify", value: "$36.000", dueDate: "06/21/2023" },
-    { name: "Amazon", value: "$257.000", dueDate: "06/28/2023" },
-    { name: "Car", value: "$36.000", dueDate: "07/12/2023" },
-    { name: "Apartment", value: "$36.000", dueDate: "07/25/2023" },
+    { id: 0, name: "Spotify", value: "$36.000", duedate: "06/21/2023" },
+    { id: 1, name: "Amazon", value: "$257.000", duedate: "06/28/2023" },
+    { id: 2, name: "Car", value: "$36.000", duedate: "07/12/2023" },
+    { id: 3, name: "Apartment", value: "$36.000", duedate: "07/25/2023" },
   ],
 };
 
