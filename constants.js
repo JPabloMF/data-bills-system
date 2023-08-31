@@ -24,20 +24,24 @@ const BILLS = {
       {
         name: "Broken roof",
         description: "Fix the roof, our house is full of water",
+        total: "$350.000"
       },
       {
         name: "Fix garage",
         description: "Fix the garage, we need it for our car",
+        total: "$32.800"
       },
     ],
     transportation: [
       {
         name: "Helmet",
         description: "We need a helmet asap",
+        total: "$1.350.000"
       },
       {
         name: "New tyres",
         description: "New tyres for motorcycle please",
+        total: "$50.600"
       },
     ],
   },
